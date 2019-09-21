@@ -81,9 +81,13 @@ For different implementation we customized and adopted some part of existing cod
 References:
 
 [1] https://github.com/thtang/CheXNet-with-localization
+
 [2] https://github.com/Mipanox/Bird_cocktail
+
 [3] https://github.com/meliketoy/gradcam.pytorch
+
 [4] https://github.com/GT-RIPL/L2C
+
 [5] https://www.cc.gatech.edu/classes/AY2019/cs7643_spring/hw1/
 
 
