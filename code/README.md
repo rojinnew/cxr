@@ -78,7 +78,7 @@ For different implementation we customized and adopted some part of existing cod
 - The implementation of loss function for weakly labeled data is inspired by MCL code [4] and it is customized for multi-class and the multi-label dataset.
 -The code for generating plots is adopted from HW1 coding - CS 7643 [5].
 
-References:
+# References:
 
 [1] https://github.com/thtang/CheXNet-with-localization
 
