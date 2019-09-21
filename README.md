@@ -1,6 +1,6 @@
 # Pathology Detection using Chest X-Rays (CXRs)
-# Georgia Institute of Technology
-# Project for CS 7643 class
+## Georgia Institute of Technology
+## Project for CS 7643 class
 
 # Decription:
 
