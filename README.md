@@ -7,7 +7,8 @@ Implementing of a Deep Convolutional Neural Network (DCNN) for pathology detecti
 
 @Author: Rojin Aliehyaei
 
-Go inside the unzipped folder (Rojin_Aliehyaei_project_webpage_code) and type following command in terminal: 
+Go inside the the Downloaded folder and type following command in terminal: 
+
 If you use python 2 type:
 
 python -m SimpleHTTPServer 8000
