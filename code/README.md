@@ -1,10 +1,7 @@
-===============================
 Georgia Institute of Technology
 Project for CS 7643 class
-@Author: Rojin Aliehyaei
-===============================
-# Project Title
 
+# Project Title
 ### Prerequisites
 Following Packages need to be installed for running the code.
 
@@ -20,7 +17,7 @@ You can run the code on GPU.
 
 
 - Unzip the folder and go inside main folder 
-========== Preprocessing =====================
+# Preprocessing 
 
 STEP 1-1:
  
@@ -48,11 +45,10 @@ STEP 1-3:
 - create an empty folder called "preprocessed_data" inside "3-label" folder.
 - run python3 preprocessing.py
 - Four files called "train_features.npy", "train_onehot_label.npy", "valid_features.npy", "valid_onehot_label.npy" will be generated inside "preprocessed_data" folder. 
-================ Preprocessing ends =====================
 
 
 
-=============== Training =====================
+# Training
 STEP 2-1: Training and Validation using Supervised Approaches
 
 - Move "preprocessed_data" folder inside "code_submission" folder
@@ -66,15 +62,13 @@ STEP 2-2: Training and Validation using Semi-Supervised Approaches
 
 - Run mcl.py by executing: python3 mcl.py
 
-========== Training ends =====================
 
-======== Localization ========================
+# Localization 
 
 - Put the trained model in "best" folder
 - Run the detection.py: python3 detection.py
 - Find heatmaps in "heatmaps" folder
 - Find processed image with bounding box in "boundresults" folder
-======== Localization ends ========================
 
 For different implementation we customized and adopted some part of existing codes as follows:
 
