@@ -1,8 +1,8 @@
-Georgia Institute of Technology
-
-Project for CS 7643 class
 
 # Project Title
+
+Pathology Detection using Chest X-Rays (CXRs)
+
 ### Prerequisites
 Following Packages need to be installed for running the code.
 
