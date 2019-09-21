@@ -3,9 +3,9 @@ Georgia Institute of Technology
 Project for CS 7643 class
 @Author: Rojin Aliehyaei
 ===============================
+# Project Title
 
-Requirements:
-
+### Prerequisites
 Following Packages need to be installed for running the code.
 
 torch: 1.0.1
