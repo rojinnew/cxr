@@ -6,7 +6,7 @@
 
 Implementing of a Deep Convolutional Neural Network (DCNN) for pathology detection on a public ChestXray8 dataset from the NIH Clinical Center.
 
-##### View HTML Version of Report
+#### View HTML Version of Report
 
 Go inside the the Downloaded folder and type following command in terminal: 
 
@@ -20,7 +20,7 @@ python3 -m http.server 8000
 
 In the browser type the following address: http://localhost:8000
 
-##### Accessing Source Code 
+#### Accessing Source Code 
 
 The source code is in code folder.
 
