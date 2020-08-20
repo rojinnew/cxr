@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/rojinnew/cxr_image_classification/blob/master/images/main.png)
 
-### Decription
+### Summary 
 
 Implementing of a Deep Convolutional Neural Network (DCNN) for pathology detection on a public ChestXray8 dataset from the NIH Clinical Center.
 
