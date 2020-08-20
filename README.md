@@ -1,13 +1,10 @@
-# Pathology Detection using Chest X-Rays (CXRs)
-## Project for CS 7643 class
+## Pathology Detection using Chest X-Rays (CXRs)
 
 ![Image](https://github.com/rojinnew/cxr_image_classification/blob/master/images/main.png)
 
-# Decription:
+### Decription
 
 Implementing of a Deep Convolutional Neural Network (DCNN) for pathology detection on a public ChestXray8 dataset from the NIH Clinical Center.
-
-@Author: Rojin Aliehyaei
 
 Go inside the the Downloaded folder and type following command in terminal: 
 
