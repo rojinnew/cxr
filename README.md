@@ -4,7 +4,7 @@
 
 ### Summary 
 
-Implementing of a Deep Convolutional Neural Network (DCNN) for pathology detection on a public ChestXray8 dataset from the NIH Clinical Center.
+Implementation of a Deep Convolutional Neural Network (DCNN) for pathology detection on a public ChestXray8 dataset from the NIH Clinical Center.
 
 #### View HTML Version of Report
 
